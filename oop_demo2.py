@@ -12,7 +12,7 @@ class StrangeTurtle(turtle.Turtle):
         super().right(angle)
 
     def right(self, angle):
-        print("I won't turn right, because I am ajob!")
+        print("I won't turn right, because I am strange!")
 
 
 if __name__ == "__main__":

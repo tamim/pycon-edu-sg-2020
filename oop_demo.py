@@ -5,6 +5,8 @@ nonte = turtle.Turtle()
 
 fonte = turtle.Turtle()
 
+print(type(nonte))
+
 nonte.speed(4)
 nonte.shape("circle")
 
